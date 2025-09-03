@@ -3,7 +3,7 @@
 **Java Backend Developer | Software Engineering Enthusiast | AI/ML Explorer**  
 
 🎓 **Education**: B.Tech in Computer & Communication Engineering @ Manipal University Jaipur (2022–2026)  
-💼 **Experience**: Software Engineering Intern @ Bharti Airtel (Jun–Aug 2024)  
+💼 **Experience**: Software Engineering Intern @ Bharti Airtel (Jun–Aug 2025)  
 🏆 **Problem Solver**: 250+ LeetCode problems solved  
 📧 **Email**: garvitsharma782@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/garvit-sharma-1894bb325) • [LeetCode](https://leetcode.com/bbakuP0Wq7)  
